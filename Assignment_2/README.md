@@ -138,7 +138,7 @@ You should submit:
 
 Please submit your code files _as-is_; do not copy them into a Word document or PDF. **Plain text is also preferred for your write-up.**
 
-Email your submission to the [TA](mganesh@pdx.edu) on or before the due date. The subject line should be "CS533 Assignment 2".
+Email your submission to the [TA](https://madhu-ganesh.github.io/CS533-Operating-Systems/) on or before the due date. The subject line should be "CS533 Assignment 2".
 
 ## Need Help?
 
