@@ -1,7 +1,7 @@
 # CS533 Course Project  
-**TA: Mike Lane**  
-**Email: mikelane@gmail.com**  
-**Office Hours: Wednesdays at 2:00PM to 4:00PM and by appointment**  
+**TA: Madhumeta Ganesh**  
+**Email: mganesh@pdx.edu**  
+**Office Hours: Tuesdays and Thursdays at 2:30PM to 3:30PM and by appointment**  
 
 Throughout the term, you will be developing aspects of a user-level threads package, including context-switching, scheduling, and synchronization.
 
@@ -9,19 +9,19 @@ Because many of the mechanisms we will be using are platform-dependent, it is im
 
 To connect to Ada, you will need an SSH client (I suggest using the terminal or [iTerm2](https://iterm2.com) for macOS, [mosh](https://mosh.mit.edu/) for Linux/Cygwin and [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) for Windows), and an MCECS resource account, which is separate from your ODIN account and is maintained by [the CAT](http://cat.pdx.edu/). If you do not have an MCECS account, please visit the [CS Tutors](http://cat.pdx.edu/tutors.html) in FAB 88.
 
-All code will be written in the C programming language, along with a small portion in GNU Assembler for the first assignment. We assume you have some knowledge of C; if you need to brush up, we recommend [The C Programming Language](http://en.wikipedia.org/wiki/The_C_Programming_Language) by Kernighan and Ritchie. A copy of this book is available from the CS Tutors for checkout while you are in the CS lounge (FAB 88). Knowledge of GNU Assembler syntax is helpful, but not required; some tips on the assembly required are provided [here](http://web.cecs.pdx.edu/~walpole/class/cs533/fall2016/project/project/assign1/asm_hints.md).
+All code will be written in the C programming language, along with a small portion in GNU Assembler for the first assignment. We assume you have some knowledge of C; if you need to brush up, we recommend [The C Programming Language](http://en.wikipedia.org/wiki/The_C_Programming_Language) by Kernighan and Ritchie. A copy of this book is available from the CS Tutors for checkout while you are in the CS lounge (FAB 88). Knowledge of GNU Assembler syntax is helpful, but not required; some tips on the assembly required are provided [here](http://web.cecs.pdx.edu/~walpole/class/cs533/spring2017/project/project/assign1/asm_hints.md).
 
-This project also assumes some knowledge of working on the Unix/Linux command-line, especially the use of the GNU Compiler Collection (gcc). If you need a refresher, consider attending the workshops offered by the CS Tutors near the beginning of the term, and/or browsing their [tutorials page](http://cat.pdx.edu/tutors/tutorials.html). If you need additional assistance, contact [the TA](http://web.cecs.pdx.edu/~walpole/class/cs533/fall2016/project/) or the [course mailing list](https://mailhost.cecs.pdx.edu/mailman/listinfo/cs533).
+This project also assumes some knowledge of working on the Unix/Linux command-line, especially the use of the GNU Compiler Collection (gcc). If you need a refresher, consider attending the workshops offered by the CS Tutors near the beginning of the term, and/or browsing their [tutorials page](http://cat.pdx.edu/tutors/tutorials.html). If you need additional assistance, contact [the TA](http://web.cecs.pdx.edu/~walpole/class/cs533/spring2017/project/) or the [course mailing list](https://mailhost.cecs.pdx.edu/mailman/listinfo/cs533).
 
 ## Assignments
 
 The project is divided into five assignments, each increasing in complexity. Assignments are due every two weeks. To complete each project, it is highly recommended that you start on them as early as possible!
 
-* [Context Switching](https://github.com/mikelane/CS533-Operating-Systems/tree/master/Assignment_1): **Due October 7**
-* [Round-robin Scheduling](https://github.com/mikelane/CS533-Operating-Systems/tree/master/Assignment_2): **Due October 21**
-* [Asynchronous I/O](https://github.com/mikelane/CS533-Operating-Systems/tree/master/Assignment_3): **Due November 4**
-* [Synchronization](https://github.com/mikelane/CS533-Operating-Systems/tree/master/Assignment_4): **Due November 18**
-* [M:N Threading](https://github.com/mikelane/CS533-Operating-Systems/tree/master/Assignment_5): **Due December 2**
+* [Context Switching](https://github.com/madhu-ganesh/CS533-Operating-Systems/tree/master/Assignment_1): **Due October 7**
+* [Round-robin Scheduling](https://github.com/madhu-ganesh/CS533-Operating-Systems/tree/master/Assignment_2): **Due October 21**
+* [Asynchronous I/O](https://github.com/madhu-ganesh/CS533-Operating-Systems/tree/master/Assignment_3): **Due November 4**
+* [Synchronization](https://github.com/madhu-ganesh/CS533-Operating-Systems/tree/master/Assignment_4): **Due November 18**
+* [M:N Threading](https://github.com/madhu-ganesh/CS533-Operating-Systems/tree/master/Assignment_5): **Due December 2**
 
 ## Grading
 
