@@ -1,7 +1,7 @@
 # CS533 Course Project  
 **TA: Madhumeta Ganesh**  
 **Email: mganesh@pdx.edu**  
-**Office Hours: Tuesdays and Thursdays at 2:30PM to 3:30PM and by appointment**  
+**Office Hours: Tuesdays and Thursdays at 10:30AM to 11:30AM and by appointment**  
 
 Throughout the term, you will be developing aspects of a user-level threads package, including context-switching, scheduling, and synchronization.
 
