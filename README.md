@@ -21,7 +21,7 @@ The project is divided into five assignments, each increasing in complexity. Ass
 * [Round-robin Scheduling](https://github.com/madhu-ganesh/CS533-Operating-Systems/tree/master/Assignment_2): **Due April 28**
 * [Asynchronous I/O](https://github.com/madhu-ganesh/CS533-Operating-Systems/tree/master/Assignment_3): **Due May 12**
 * [Synchronization](https://github.com/madhu-ganesh/CS533-Operating-Systems/tree/master/Assignment_4): **Due May 26**
-* [M:N Threading](https://github.com/madhu-ganesh/CS533-Operating-Systems/tree/master/Assignment_5): **Due May 9**
+* [M:N Threading](https://github.com/madhu-ganesh/CS533-Operating-Systems/tree/master/Assignment_5): **Due June 9**
 
 ## Grading
 
